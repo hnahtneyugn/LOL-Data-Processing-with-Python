@@ -1,0 +1,30 @@
+{
+    "baron": {
+        "win": 11213,
+        "lose": 2472
+    },
+    "champion": {
+        "win": 11679,
+        "lose": 8013
+    },
+    "dragon": {
+        "win": 11872,
+        "lose": 7579
+    },
+    "horde": {
+        "win": 10766,
+        "lose": 8705
+    },
+    "inhibitor": {
+        "win": 14616,
+        "lose": 1387
+    },
+    "riftHerald": {
+        "win": 11940,
+        "lose": 5629
+    },
+    "tower": {
+        "win": 13886,
+        "lose": 5515
+    }
+}
