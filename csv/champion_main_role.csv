@@ -5,7 +5,7 @@ Akali,"['TOP', 'MIDDLE']"
 Akshan,['MIDDLE']
 Alistar,['UTILITY']
 Amumu,['JUNGLE']
-Anivia,"['MIDDLE', 'UTILITY']"
+Anivia,['MIDDLE']
 Annie,['MIDDLE']
 Aphelios,['BOTTOM']
 Ashe,['BOTTOM']
@@ -15,18 +15,18 @@ Azir,['MIDDLE']
 Bard,['UTILITY']
 Belveth,['JUNGLE']
 Blitzcrank,['UTILITY']
-Brand,"['MIDDLE', 'UTILITY']"
+Brand,"['JUNGLE', 'MIDDLE', 'UTILITY']"
 Braum,['UTILITY']
 Briar,['JUNGLE']
 Caitlyn,['BOTTOM']
 Camille,['TOP']
 Cassiopeia,"['TOP', 'MIDDLE']"
-Chogath,"['TOP', 'UTILITY']"
+Chogath,"['TOP', 'MIDDLE']"
 Corki,"['MIDDLE', 'BOTTOM']"
 Darius,['TOP']
 Diana,"['JUNGLE', 'MIDDLE']"
 Draven,['BOTTOM']
-DrMundo,['TOP']
+DrMundo,"['TOP', 'JUNGLE']"
 Ekko,"['JUNGLE', 'MIDDLE']"
 Elise,['JUNGLE']
 Evelynn,['JUNGLE']
@@ -43,7 +43,7 @@ Graves,['JUNGLE']
 Gwen,"['TOP', 'JUNGLE']"
 Hecarim,['JUNGLE']
 Heimerdinger,"['TOP', 'MIDDLE']"
-Hwei,"['MIDDLE', 'UTILITY']"
+Hwei,['MIDDLE']
 Illaoi,['TOP']
 Irelia,"['TOP', 'MIDDLE']"
 Ivern,['JUNGLE']
@@ -59,7 +59,7 @@ Karma,['UTILITY']
 Karthus,['JUNGLE']
 Kassadin,['MIDDLE']
 Katarina,['MIDDLE']
-Kayle,['TOP']
+Kayle,"['TOP', 'MIDDLE']"
 Kayn,['JUNGLE']
 Kennen,['TOP']
 Khazix,['JUNGLE']
@@ -75,7 +75,7 @@ Lissandra,['MIDDLE']
 Lucian,['BOTTOM']
 Lulu,['UTILITY']
 Lux,"['MIDDLE', 'UTILITY']"
-Malphite,"['TOP', 'UTILITY']"
+Malphite,['TOP']
 Malzahar,['MIDDLE']
 Maokai,"['JUNGLE', 'UTILITY']"
 MasterYi,['JUNGLE']
@@ -84,7 +84,7 @@ MissFortune,['BOTTOM']
 MonkeyKing,"['TOP', 'JUNGLE']"
 Mordekaiser,['TOP']
 Morgana,['UTILITY']
-Naafiri,"['JUNGLE', 'MIDDLE']"
+Naafiri,['MIDDLE']
 Nami,['UTILITY']
 Nasus,['TOP']
 Nautilus,['UTILITY']
@@ -93,14 +93,14 @@ Nidalee,['JUNGLE']
 Nilah,['BOTTOM']
 Nocturne,['JUNGLE']
 Nunu,"['JUNGLE', 'MIDDLE']"
-Olaf,['TOP']
+Olaf,"['TOP', 'JUNGLE']"
 Orianna,['MIDDLE']
 Ornn,['TOP']
 Pantheon,"['TOP', 'UTILITY']"
 Poppy,['UTILITY']
 Pyke,['UTILITY']
 Qiyana,['MIDDLE']
-Quinn,['TOP']
+Quinn,"['TOP', 'MIDDLE']"
 Rakan,['UTILITY']
 Rammus,"['TOP', 'JUNGLE']"
 RekSai,['JUNGLE']
@@ -117,7 +117,7 @@ Senna,['UTILITY']
 Seraphine,"['BOTTOM', 'UTILITY']"
 Sett,['TOP']
 Shaco,"['JUNGLE', 'UTILITY']"
-Shen,"['TOP', 'UTILITY']"
+Shen,['TOP']
 Shyvana,['JUNGLE']
 Singed,['TOP']
 Sion,['TOP']
@@ -136,7 +136,7 @@ Taric,['UTILITY']
 Teemo,"['TOP', 'UTILITY']"
 Thresh,['UTILITY']
 Tristana,"['MIDDLE', 'BOTTOM']"
-Trundle,"['TOP', 'JUNGLE']"
+Trundle,['TOP']
 Tryndamere,['TOP']
 TwistedFate,['MIDDLE']
 Twitch,"['BOTTOM', 'UTILITY']"
@@ -163,7 +163,7 @@ Yuumi,['UTILITY']
 Zac,"['TOP', 'JUNGLE', 'UTILITY']"
 Zed,['MIDDLE']
 Zeri,['BOTTOM']
-Ziggs,"['MIDDLE', 'BOTTOM', 'UTILITY']"
+Ziggs,"['MIDDLE', 'BOTTOM']"
 Zilean,['UTILITY']
 Zoe,"['MIDDLE', 'UTILITY']"
 Zyra,"['JUNGLE', 'UTILITY']"

@@ -1,0 +1,169 @@
+,winrate,ban_pick_rate,core_items,main_roles
+Aatrox,51.1,22.955,"['Plated Steelcaps', 'Eclipse', 'Sundered Sky']",['TOP']
+Ahri,52.82,11.04,"['Malignance', ""Sorcerer's Shoes"", ""Zhonya's Hourglass""]",['MIDDLE']
+Akali,49.47,9.87,"[""Sorcerer's Shoes"", 'Stormsurge', 'Shadowflame']","['TOP', 'MIDDLE']"
+Akshan,53.64,3.515,"['The Collector', 'Kraken Slayer', 'Infinity Edge']",['MIDDLE']
+Alistar,50.97,5.29,"['Locket of the Iron Solari', 'Celestial Opposition', 'Plated Steelcaps']",['UTILITY']
+Amumu,50.58,2.59,"[""Liandry's Torment"", 'Sunfire Aegis', 'Plated Steelcaps']",['JUNGLE']
+Anivia,54.71,2.825,"[""Seraph's Embrace"", 'Rod of Ages', ""Sorcerer's Shoes""]",['MIDDLE']
+Annie,49.49,1.755,"['Malignance', ""Sorcerer's Shoes"", ""Liandry's Torment""]",['MIDDLE']
+Aphelios,50.43,3.405,"['The Collector', ""Berserker's Greaves"", 'Infinity Edge']",['BOTTOM']
+Ashe,49.55,9.635,"[""Berserker's Greaves"", 'Kraken Slayer', 'Phantom Dancer']",['BOTTOM']
+AurelionSol,51.11,4.145,"[""Rylai's Crystal Scepter"", ""Liandry's Torment"", ""Sorcerer's Shoes""]",['MIDDLE']
+Aurora,48.3,25.3,"[""Sorcerer's Shoes"", ""Liandry's Torment"", 'Malignance']","['TOP', 'MIDDLE']"
+Azir,45.0,0.92,"[""Nashor's Tooth"", ""Liandry's Torment"", ""Sorcerer's Shoes""]",['MIDDLE']
+Bard,50.59,1.435,"['Locket of the Iron Solari', 'Celestial Opposition', 'Boots of Swiftness']",['UTILITY']
+Belveth,46.93,7.05,"['Kraken Slayer', 'Blade of The Ruined King', 'Plated Steelcaps']",['JUNGLE']
+Blitzcrank,51.96,17.425,"['Locket of the Iron Solari', 'Celestial Opposition', 'Frozen Heart']",['UTILITY']
+Brand,54.95,5.5,"[""Rylai's Crystal Scepter"", ""Liandry's Torment"", ""Sorcerer's Shoes""]","['JUNGLE', 'MIDDLE', 'UTILITY']"
+Braum,50.53,6.44,"['Locket of the Iron Solari', 'Celestial Opposition', 'Plated Steelcaps']",['UTILITY']
+Briar,48.84,2.6,"['Blade of The Ruined King', 'Plated Steelcaps', 'Eclipse']",['JUNGLE']
+Caitlyn,49.7,12.92,"['The Collector', 'Infinity Edge', ""Berserker's Greaves""]",['BOTTOM']
+Camille,51.07,6.87,"['Trinity Force', 'Ravenous Hydra', 'Plated Steelcaps']",['TOP']
+Cassiopeia,51.48,1.43,"[""Seraph's Embrace"", ""Rylai's Crystal Scepter"", ""Liandry's Torment""]","['TOP', 'MIDDLE']"
+Chogath,57.89,2.03,"['Heartsteel', 'Plated Steelcaps', ""Mercury's Treads""]","['TOP', 'MIDDLE']"
+Corki,51.83,6.615,"['Trinity Force', 'Muramana', 'The Collector']","['MIDDLE', 'BOTTOM']"
+Darius,50.0,8.395,"['Stridebreaker', 'Plated Steelcaps', ""Dead Man's Plate""]",['TOP']
+Diana,51.82,7.805,"[""Sorcerer's Shoes"", ""Zhonya's Hourglass"", ""Nashor's Tooth""]","['JUNGLE', 'MIDDLE']"
+Draven,46.72,4.215,"['Bloodthirster', 'The Collector', 'Infinity Edge']",['BOTTOM']
+DrMundo,48.77,1.535,"['Heartsteel', ""Warmog's Armor"", 'Plated Steelcaps']","['TOP', 'JUNGLE']"
+Ekko,48.19,2.245,"[""Sorcerer's Shoes"", 'Lich Bane', 'Hextech Rocketbelt']","['JUNGLE', 'MIDDLE']"
+Elise,53.21,4.13,"[""Sorcerer's Shoes"", 'Stormsurge', 'Shadowflame']",['JUNGLE']
+Evelynn,46.53,4.405,"['Lich Bane', ""Sorcerer's Shoes"", 'Stormsurge']",['JUNGLE']
+Ezreal,48.41,21.905,"['Trinity Force', 'Muramana', 'Ionian Boots of Lucidity']",['BOTTOM']
+Fiddlesticks,49.62,2.01,"[""Liandry's Torment"", ""Sorcerer's Shoes"", 'Malignance']","['TOP', 'JUNGLE', 'UTILITY']"
+Fiora,50.74,6.67,"['Ravenous Hydra', 'Trinity Force', 'Plated Steelcaps']",['TOP']
+Fizz,47.67,2.77,"['Lich Bane', ""Sorcerer's Shoes"", ""Zhonya's Hourglass""]",['MIDDLE']
+Galio,51.54,5.815,"['Hollow Radiance', ""Mercury's Treads"", 'Riftmaker']",['MIDDLE']
+Gangplank,45.26,1.59,"['Trinity Force', 'The Collector', 'Ionian Boots of Lucidity']",['TOP']
+Garen,43.59,2.905,"['Stridebreaker', 'Phantom Dancer', ""Berserker's Greaves""]",['TOP']
+Gnar,48.49,6.02,"['Trinity Force', 'Plated Steelcaps', 'Black Cleaver']",['TOP']
+Gragas,49.55,8.66,"[""Sorcerer's Shoes"", 'Lich Bane', 'Stormsurge']","['TOP', 'JUNGLE']"
+Graves,51.97,24.98,"[""Youmuu's Ghostblade"", 'The Collector', ""Lord Dominik's Regards""]",['JUNGLE']
+Gwen,47.11,4.9,"['Riftmaker', ""Nashor's Tooth"", 'Plated Steelcaps']","['TOP', 'JUNGLE']"
+Hecarim,48.68,5.98,"['Eclipse', 'Ionian Boots of Lucidity', 'Black Cleaver']",['JUNGLE']
+Heimerdinger,46.84,1.71,"[""Sorcerer's Shoes"", ""Liandry's Torment"", 'Blackfire Torch']","['TOP', 'MIDDLE']"
+Hwei,53.79,9.255,"[""Sorcerer's Shoes"", 'Blackfire Torch', ""Liandry's Torment""]",['MIDDLE']
+Illaoi,50.58,5.61,"['Iceborn Gauntlet', 'Black Cleaver', 'Plated Steelcaps']",['TOP']
+Irelia,51.3,7.015,"['Blade of The Ruined King', 'Plated Steelcaps', ""Wit's End""]","['TOP', 'MIDDLE']"
+Ivern,51.61,0.78,"['Ionian Boots of Lucidity', 'Redemption', 'Moonstone Renewer']",['JUNGLE']
+Janna,51.32,1.855,"['Boots of Swiftness', 'Dream Maker', ""Shurelya's Battlesong""]",['UTILITY']
+JarvanIV,50.0,6.075,"['Sundered Sky', 'Eclipse', 'Plated Steelcaps']",['JUNGLE']
+Jax,53.05,15.04,"['Trinity Force', 'Sundered Sky', 'Plated Steelcaps']",['TOP']
+Jayce,46.91,10.395,"['Eclipse', 'Muramana', 'Ionian Boots of Lucidity']","['TOP', 'MIDDLE']"
+Jhin,50.56,11.335,"['Boots of Swiftness', 'Rapid Firecannon', 'The Collector']",['BOTTOM']
+Jinx,51.26,9.625,"[""Berserker's Greaves"", 'Kraken Slayer', 'Infinity Edge']",['BOTTOM']
+Kaisa,50.58,27.865,"[""Guinsoo's Rageblade"", ""Berserker's Greaves"", 'Statikk Shiv']",['BOTTOM']
+Kalista,45.33,3.75,"['Blade of The Ruined King', ""Berserker's Greaves"", ""Guinsoo's Rageblade""]",['BOTTOM']
+Karma,49.67,10.77,"['Ionian Boots of Lucidity', ""Zaz'Zak's Realmspike"", 'Malignance']",['UTILITY']
+Karthus,52.97,1.435,"[""Sorcerer's Shoes"", ""Liandry's Torment"", 'Malignance']",['JUNGLE']
+Kassadin,49.4,1.95,"[""Seraph's Embrace"", 'Malignance', ""Sorcerer's Shoes""]",['MIDDLE']
+Katarina,48.92,5.885,"[""Sorcerer's Shoes"", 'Shadowflame', 'Lich Bane']",['MIDDLE']
+Kayle,51.97,0.74,"[""Nashor's Tooth"", ""Berserker's Greaves"", ""Guinsoo's Rageblade""]","['TOP', 'MIDDLE']"
+Kayn,47.49,3.17,"['Eclipse', 'Ionian Boots of Lucidity', 'Black Cleaver']",['JUNGLE']
+Kennen,53.5,2.395,"[""Sorcerer's Shoes"", 'Hextech Rocketbelt', ""Liandry's Torment""]",['TOP']
+Khazix,49.2,15.51,"[""Youmuu's Ghostblade"", 'Profane Hydra', 'Opportunity']",['JUNGLE']
+Kindred,51.27,10.63,"['Kraken Slayer', 'The Collector', 'Plated Steelcaps']",['JUNGLE']
+Kled,56.58,1.27,"['Profane Hydra', 'Eclipse', 'Plated Steelcaps']",['TOP']
+KogMaw,51.14,2.895,"[""Guinsoo's Rageblade"", ""Berserker's Greaves"", 'Blade of The Ruined King']",['BOTTOM']
+KSante,51.24,9.79,"['Iceborn Gauntlet', 'Plated Steelcaps', 'Thornmail']",['TOP']
+Leblanc,54.63,26.445,"[""Luden's Companion"", ""Sorcerer's Shoes"", 'Stormsurge']",['MIDDLE']
+LeeSin,48.86,27.125,"['Eclipse', 'Sundered Sky', 'Black Cleaver']",['JUNGLE']
+Leona,50.43,7.025,"['Locket of the Iron Solari', 'Celestial Opposition', 'Plated Steelcaps']",['UTILITY']
+Lillia,52.21,3.44,"[""Liandry's Torment"", ""Rylai's Crystal Scepter"", 'Riftmaker']",['JUNGLE']
+Lissandra,49.75,4.7,"['Malignance', ""Zhonya's Hourglass"", ""Sorcerer's Shoes""]",['MIDDLE']
+Lucian,48.05,7.73,"['Essence Reaver', 'Infinity Edge', 'Navori Flickerblade']",['BOTTOM']
+Lulu,50.0,14.345,"['Dream Maker', 'Ionian Boots of Lucidity', 'Ardent Censer']",['UTILITY']
+Lux,48.84,10.125,"[""Sorcerer's Shoes"", ""Zaz'Zak's Realmspike"", ""Luden's Companion""]","['MIDDLE', 'UTILITY']"
+Malphite,48.33,7.215,"['Malignance', 'Plated Steelcaps', 'Thornmail']",['TOP']
+Malzahar,47.46,2.82,"[""Liandry's Torment"", ""Sorcerer's Shoes"", ""Rylai's Crystal Scepter""]",['MIDDLE']
+Maokai,47.77,1.355,"['Locket of the Iron Solari', 'Celestial Opposition', 'Plated Steelcaps']","['JUNGLE', 'UTILITY']"
+MasterYi,47.75,4.525,"['Blade of The Ruined King', ""Guinsoo's Rageblade"", 'Kraken Slayer']",['JUNGLE']
+Milio,49.26,4.69,"['Dream Maker', 'Ionian Boots of Lucidity', 'Moonstone Renewer']",['UTILITY']
+MissFortune,51.07,2.95,"['The Collector', 'Bloodthirster', 'Infinity Edge']",['BOTTOM']
+MonkeyKing,50.77,2.67,"['Trinity Force', 'Sundered Sky', 'Plated Steelcaps']","['TOP', 'JUNGLE']"
+Mordekaiser,47.36,9.64,"[""Rylai's Crystal Scepter"", 'Riftmaker', 'Plated Steelcaps']",['TOP']
+Morgana,49.46,13.675,"[""Zaz'Zak's Realmspike"", ""Zhonya's Hourglass"", ""Liandry's Torment""]",['UTILITY']
+Naafiri,57.14,1.25,"['Eclipse', 'Profane Hydra', 'Ionian Boots of Lucidity']",['MIDDLE']
+Nami,46.17,5.11,"['Imperial Mandate', 'Ionian Boots of Lucidity', 'Dream Maker']",['UTILITY']
+Nasus,48.01,10.14,"['Trinity Force', 'Frozen Heart', 'Ionian Boots of Lucidity']",['TOP']
+Nautilus,48.57,17.66,"['Locket of the Iron Solari', 'Celestial Opposition', 'Plated Steelcaps']",['UTILITY']
+Neeko,51.85,3.835,"['Hextech Rocketbelt', ""Zaz'Zak's Realmspike"", ""Zhonya's Hourglass""]","['MIDDLE', 'UTILITY']"
+Nidalee,50.07,15.25,"[""Sorcerer's Shoes"", 'Lich Bane', ""Liandry's Torment""]",['JUNGLE']
+Nilah,51.97,11.54,"['The Collector', 'Infinity Edge', ""Lord Dominik's Regards""]",['BOTTOM']
+Nocturne,50.68,12.565,"['Stridebreaker', 'Experimental Hexplate', 'Plated Steelcaps']",['JUNGLE']
+Nunu,51.35,1.48,"['Hextech Rocketbelt', ""Sorcerer's Shoes"", 'Stormsurge']","['JUNGLE', 'MIDDLE']"
+Olaf,55.67,1.545,"['Stridebreaker', 'Plated Steelcaps', ""Sterak's Gage""]","['TOP', 'JUNGLE']"
+Orianna,49.37,4.275,"[""Luden's Companion"", ""Sorcerer's Shoes"", ""Seraph's Embrace""]",['MIDDLE']
+Ornn,48.73,2.385,"['Plated Steelcaps', 'Thornmail', 'Sunfire Aegis']",['TOP']
+Pantheon,55.17,3.86,"['Eclipse', 'Bloodsong', 'Plated Steelcaps']","['TOP', 'UTILITY']"
+Poppy,52.72,11.525,"[""Dead Man's Plate"", 'Bloodsong', 'Plated Steelcaps']",['UTILITY']
+Pyke,48.08,22.17,"['Umbral Glaive', 'Bloodsong', 'Synchronized Souls']",['UTILITY']
+Qiyana,53.61,2.365,"['Profane Hydra', 'Ionian Boots of Lucidity', ""Youmuu's Ghostblade""]",['MIDDLE']
+Quinn,51.67,0.87,"['Synchronized Souls', 'Profane Hydra', 'The Collector']","['TOP', 'MIDDLE']"
+Rakan,49.04,4.735,"['Celestial Opposition', 'Locket of the Iron Solari', ""Zeke's Convergence""]",['UTILITY']
+Rammus,45.0,1.785,"['Thornmail', 'Sunfire Aegis', ""Jak'Sho, The Protean""]","['TOP', 'JUNGLE']"
+RekSai,50.81,1.14,"['Stridebreaker', 'Plated Steelcaps', 'Black Cleaver']",['JUNGLE']
+Rell,54.67,16.385,"['Celestial Opposition', 'Locket of the Iron Solari', ""Zeke's Convergence""]",['UTILITY']
+Renata,48.48,1.355,"['Locket of the Iron Solari', 'Ionian Boots of Lucidity', 'Celestial Opposition']",['UTILITY']
+Renekton,48.0,11.385,"['Eclipse', 'Black Cleaver', 'Plated Steelcaps']",['TOP']
+Rengar,47.7,2.315,"['Profane Hydra', 'Ionian Boots of Lucidity', 'Hubris']","['TOP', 'JUNGLE']"
+Riven,52.2,2.995,"['Eclipse', 'Black Cleaver', 'Ionian Boots of Lucidity']",['TOP']
+Rumble,46.67,2.68,"[""Liandry's Torment"", ""Sorcerer's Shoes"", ""Zhonya's Hourglass""]",['TOP']
+Ryze,51.58,1.705,"[""Seraph's Embrace"", 'Rod of Ages', ""Sorcerer's Shoes""]",['MIDDLE']
+Samira,53.83,4.37,"['The Collector', 'Infinity Edge', 'Plated Steelcaps']",['BOTTOM']
+Sejuani,51.05,2.125,"['Plated Steelcaps', 'Thornmail', ""Zeke's Convergence""]",['JUNGLE']
+Senna,52.76,2.785,"['Boots of Swiftness', 'Bloodsong', 'Black Cleaver']",['UTILITY']
+Seraphine,51.89,3.465,"['Ionian Boots of Lucidity', ""Zaz'Zak's Realmspike"", ""Seraph's Embrace""]","['BOTTOM', 'UTILITY']"
+Sett,49.0,2.66,"['Stridebreaker', 'Plated Steelcaps', 'Blade of The Ruined King']",['TOP']
+Shaco,46.71,13.095,"['Profane Hydra', 'The Collector', ""Youmuu's Ghostblade""]","['JUNGLE', 'UTILITY']"
+Shen,49.18,3.27,"['Heartsteel', 'Plated Steelcaps', 'Sunfire Aegis']",['TOP']
+Shyvana,52.43,1.945,"['Spear of Shojin', ""Liandry's Torment"", ""Sorcerer's Shoes""]",['JUNGLE']
+Singed,53.77,0.635,"[""Rylai's Crystal Scepter"", ""Liandry's Torment"", 'Boots of Swiftness']",['TOP']
+Sion,51.93,2.1,"['Heartsteel', 'Plated Steelcaps', 'Sunfire Aegis']",['TOP']
+Sivir,52.33,2.175,"[""Berserker's Greaves"", 'Navori Flickerblade', 'Essence Reaver']",['BOTTOM']
+Skarner,51.93,7.25,"['Heartsteel', 'Plated Steelcaps', ""Mercury's Treads""]",['JUNGLE']
+Smolder,47.48,19.715,"['Trinity Force', 'Muramana', 'Ionian Boots of Lucidity']","['TOP', 'MIDDLE', 'BOTTOM']"
+Sona,42.19,1.02,"['Ionian Boots of Lucidity', 'Dream Maker', 'Moonstone Renewer']",['UTILITY']
+Soraka,52.78,3.385,"['Moonstone Renewer', 'Ionian Boots of Lucidity', 'Dream Maker']",['UTILITY']
+Swain,47.2,1.94,"[""Rylai's Crystal Scepter"", ""Zaz'Zak's Realmspike"", 'Malignance']","['MIDDLE', 'UTILITY']"
+Sylas,49.59,22.94,"['Hextech Rocketbelt', ""Sorcerer's Shoes"", ""Zhonya's Hourglass""]",['MIDDLE']
+Syndra,48.28,6.26,"[""Luden's Companion"", ""Sorcerer's Shoes"", 'Stormsurge']",['MIDDLE']
+TahmKench,51.27,1.9,"['Heartsteel', 'Plated Steelcaps', 'Thornmail']","['TOP', 'UTILITY']"
+Taliyah,53.91,7.535,"[""Sorcerer's Shoes"", ""Luden's Companion"", ""Liandry's Torment""]","['JUNGLE', 'MIDDLE']"
+Talon,50.0,1.505,"[""Youmuu's Ghostblade"", 'Ionian Boots of Lucidity', 'Profane Hydra']","['JUNGLE', 'MIDDLE']"
+Taric,43.86,0.44,"['Locket of the Iron Solari', 'Celestial Opposition', 'Plated Steelcaps']",['UTILITY']
+Teemo,50.27,3.645,"[""Liandry's Torment"", ""Nashor's Tooth"", ""Sorcerer's Shoes""]","['TOP', 'UTILITY']"
+Thresh,49.69,17.635,"['Locket of the Iron Solari', 'Celestial Opposition', 'Solstice Sleigh']",['UTILITY']
+Tristana,45.99,3.05,"[""Berserker's Greaves"", 'Kraken Slayer', 'Navori Flickerblade']","['MIDDLE', 'BOTTOM']"
+Trundle,50.94,0.97,"['Trinity Force', 'Plated Steelcaps', 'Ravenous Hydra']",['TOP']
+Tryndamere,50.12,4.55,"[""Berserker's Greaves"", 'Blade of The Ruined King', 'Ravenous Hydra']",['TOP']
+TwistedFate,47.97,3.995,"['Lich Bane', 'Rapid Firecannon', ""Luden's Companion""]",['MIDDLE']
+Twitch,48.72,1.995,"[""Berserker's Greaves"", 'Blade of The Ruined King', ""Runaan's Hurricane""]","['BOTTOM', 'UTILITY']"
+Udyr,48.46,1.89,"[""Liandry's Torment"", 'Unending Despair', 'Plated Steelcaps']","['TOP', 'JUNGLE']"
+Urgot,58.37,1.21,"['Black Cleaver', 'Plated Steelcaps', ""Sterak's Gage""]",['TOP']
+Varus,48.47,4.13,"['Blade of The Ruined King', ""Berserker's Greaves"", ""Guinsoo's Rageblade""]",['BOTTOM']
+Vayne,51.99,2.15,"['Blade of The Ruined King', ""Berserker's Greaves"", 'Kraken Slayer']","['TOP', 'BOTTOM']"
+Veigar,52.37,2.24,"[""Sorcerer's Shoes"", ""Luden's Companion"", ""Seraph's Embrace""]","['MIDDLE', 'UTILITY']"
+Velkoz,50.8,1.565,"[""Zaz'Zak's Realmspike"", ""Sorcerer's Shoes"", ""Luden's Companion""]","['MIDDLE', 'UTILITY']"
+Vex,54.45,2.885,"[""Sorcerer's Shoes"", ""Luden's Companion"", 'Shadowflame']",['MIDDLE']
+Vi,46.15,3.71,"['Sundered Sky', 'Black Cleaver', 'Eclipse']",['JUNGLE']
+Viego,50.99,13.145,"['Kraken Slayer', 'Sundered Sky', 'Plated Steelcaps']",['JUNGLE']
+Viktor,50.13,3.2,"[""Sorcerer's Shoes"", ""Luden's Companion"", ""Liandry's Torment""]",['MIDDLE']
+Vladimir,47.86,4.37,"['Cosmic Drive', ""Sorcerer's Shoes"", 'Ionian Boots of Lucidity']","['TOP', 'MIDDLE']"
+Volibear,51.27,3.895,"['Navori Flickerblade', 'Rod of Ages', 'Ionian Boots of Lucidity']","['TOP', 'JUNGLE']"
+Warwick,51.05,1.37,"['Blade of The Ruined King', 'Plated Steelcaps', 'Stridebreaker']","['TOP', 'JUNGLE']"
+Xayah,48.21,6.42,"[""Berserker's Greaves"", 'Navori Flickerblade', 'Essence Reaver']",['BOTTOM']
+Xerath,47.74,13.095,"[""Luden's Companion"", ""Sorcerer's Shoes"", ""Zaz'Zak's Realmspike""]","['MIDDLE', 'UTILITY']"
+XinZhao,50.83,1.305,"['Sundered Sky', 'Eclipse', 'Plated Steelcaps']",['JUNGLE']
+Yasuo,45.54,16.775,"[""Berserker's Greaves"", 'Blade of The Ruined King', 'Infinity Edge']","['TOP', 'MIDDLE']"
+Yone,46.69,24.275,"['Blade of The Ruined King', ""Berserker's Greaves"", 'Immortal Shieldbow']","['TOP', 'MIDDLE']"
+Yorick,48.43,2.565,"['Trinity Force', 'Plated Steelcaps', ""Serylda's Grudge""]",['TOP']
+Yuumi,48.35,27.955,"['Dream Maker', 'Moonstone Renewer', ""Mikael's Blessing""]",['UTILITY']
+Zac,49.66,4.685,"['Sunfire Aegis', 'Ionian Boots of Lucidity', 'Thornmail']","['TOP', 'JUNGLE', 'UTILITY']"
+Zed,45.14,8.905,"['Eclipse', 'Ionian Boots of Lucidity', 'Voltaic Cyclosword']",['MIDDLE']
+Zeri,48.81,3.65,"['Statikk Shiv', ""Runaan's Hurricane"", ""Berserker's Greaves""]",['BOTTOM']
+Ziggs,50.85,3.26,"[""Luden's Companion"", ""Sorcerer's Shoes"", ""Seraph's Embrace""]","['MIDDLE', 'BOTTOM']"
+Zilean,52.53,1.45,"['Ionian Boots of Lucidity', ""Shurelya's Battlesong"", 'Celestial Opposition']",['UTILITY']
+Zoe,53.16,12.555,"[""Sorcerer's Shoes"", ""Luden's Companion"", 'Lich Bane']","['MIDDLE', 'UTILITY']"
+Zyra,48.39,2.11,"[""Zaz'Zak's Realmspike"", ""Liandry's Torment"", ""Sorcerer's Shoes""]","['JUNGLE', 'UTILITY']"
