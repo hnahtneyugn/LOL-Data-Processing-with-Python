@@ -1,1010 +1,1010 @@
 {
     "266": {
         "name": "Aatrox",
-        "win": 1576,
-        "lose": 1556,
-        "ban": 5446
+        "win": 1024,
+        "lose": 980,
+        "ban": 2587
     },
     "103": {
         "name": "Ahri",
-        "win": 1370,
-        "lose": 1213,
-        "ban": 1067
+        "win": 862,
+        "lose": 770,
+        "ban": 576
     },
     "84": {
         "name": "Akali",
-        "win": 783,
-        "lose": 811,
-        "ban": 1611
+        "win": 510,
+        "lose": 521,
+        "ban": 943
     },
     "166": {
         "name": "Akshan",
-        "win": 161,
-        "lose": 140,
-        "ban": 469
+        "win": 140,
+        "lose": 121,
+        "ban": 442
     },
     "12": {
         "name": "Alistar",
-        "win": 504,
-        "lose": 496,
-        "ban": 542
+        "win": 343,
+        "lose": 330,
+        "ban": 385
     },
     "32": {
         "name": "Amumu",
-        "win": 221,
-        "lose": 225,
-        "ban": 456
+        "win": 87,
+        "lose": 85,
+        "ban": 346
     },
     "34": {
         "name": "Anivia",
-        "win": 236,
-        "lose": 210,
-        "ban": 371
+        "win": 151,
+        "lose": 125,
+        "ban": 289
     },
     "1": {
         "name": "Annie",
-        "win": 139,
-        "lose": 145,
-        "ban": 191
+        "win": 97,
+        "lose": 99,
+        "ban": 155
     },
     "523": {
         "name": "Aphelios",
-        "win": 357,
-        "lose": 389,
-        "ban": 160
+        "win": 296,
+        "lose": 291,
+        "ban": 94
     },
     "22": {
         "name": "Ashe",
-        "win": 1370,
-        "lose": 1391,
-        "ban": 398
+        "win": 821,
+        "lose": 836,
+        "ban": 270
     },
     "136": {
         "name": "AurelionSol",
-        "win": 482,
-        "lose": 440,
-        "ban": 448
+        "win": 300,
+        "lose": 287,
+        "ban": 242
     },
     "893": {
         "name": "Aurora",
-        "win": 568,
-        "lose": 635,
-        "ban": 5956
+        "win": 412,
+        "lose": 441,
+        "ban": 4207
     },
     "268": {
         "name": "Azir",
-        "win": 119,
-        "lose": 154,
-        "ban": 107
+        "win": 63,
+        "lose": 77,
+        "ban": 44
     },
     "432": {
         "name": "Bard",
-        "win": 163,
-        "lose": 163,
-        "ban": 107
+        "win": 128,
+        "lose": 125,
+        "ban": 34
     },
     "200": {
         "name": "Belveth",
-        "win": 186,
-        "lose": 212,
-        "ban": 1182
+        "win": 145,
+        "lose": 164,
+        "ban": 1101
     },
     "53": {
         "name": "Blitzcrank",
-        "win": 570,
-        "lose": 539,
-        "ban": 5034
+        "win": 305,
+        "lose": 282,
+        "ban": 2898
     },
     "63": {
         "name": "Brand",
-        "win": 786,
-        "lose": 658,
-        "ban": 2155
+        "win": 311,
+        "lose": 255,
+        "ban": 534
     },
     "201": {
         "name": "Braum",
-        "win": 545,
-        "lose": 544,
-        "ban": 658
+        "win": 381,
+        "lose": 373,
+        "ban": 534
     },
     "233": {
         "name": "Briar",
-        "win": 178,
-        "lose": 171,
-        "ban": 739
+        "win": 84,
+        "lose": 88,
+        "ban": 348
     },
     "51": {
         "name": "Caitlyn",
-        "win": 1654,
-        "lose": 1582,
-        "ban": 2119
+        "win": 751,
+        "lose": 760,
+        "ban": 1073
     },
     "164": {
         "name": "Camille",
-        "win": 673,
-        "lose": 622,
-        "ban": 593
+        "win": 477,
+        "lose": 457,
+        "ban": 440
     },
     "69": {
         "name": "Cassiopeia",
-        "win": 115,
-        "lose": 110,
-        "ban": 180
+        "win": 87,
+        "lose": 82,
+        "ban": 117
     },
     "31": {
         "name": "Chogath",
-        "win": 434,
-        "lose": 332,
-        "ban": 242
+        "win": 198,
+        "lose": 144,
+        "ban": 64
     },
     "42": {
         "name": "Corki",
-        "win": 610,
-        "lose": 592,
-        "ban": 343
+        "win": 525,
+        "lose": 488,
+        "ban": 310
     },
     "122": {
         "name": "Darius",
-        "win": 662,
-        "lose": 694,
-        "ban": 2046
+        "win": 297,
+        "lose": 297,
+        "ban": 1085
     },
     "131": {
         "name": "Diana",
-        "win": 930,
-        "lose": 862,
-        "ban": 559
+        "win": 626,
+        "lose": 582,
+        "ban": 353
     },
     "119": {
         "name": "Draven",
-        "win": 291,
-        "lose": 317,
-        "ban": 752
+        "win": 178,
+        "lose": 203,
+        "ban": 462
     },
     "36": {
         "name": "DrMundo",
-        "win": 173,
-        "lose": 159,
-        "ban": 379
+        "win": 79,
+        "lose": 83,
+        "ban": 145
     },
     "245": {
         "name": "Ekko",
-        "win": 359,
-        "lose": 362,
-        "ban": 168
+        "win": 173,
+        "lose": 186,
+        "ban": 90
     },
     "60": {
         "name": "Elise",
-        "win": 312,
-        "lose": 288,
-        "ban": 354
+        "win": 265,
+        "lose": 233,
+        "ban": 328
     },
     "28": {
         "name": "Evelynn",
-        "win": 149,
-        "lose": 176,
-        "ban": 708
+        "win": 114,
+        "lose": 131,
+        "ban": 636
     },
     "81": {
         "name": "Ezreal",
-        "win": 2432,
-        "lose": 2593,
-        "ban": 2016
+        "win": 1400,
+        "lose": 1492,
+        "ban": 1489
     },
     "9": {
         "name": "Fiddlesticks",
-        "win": 235,
-        "lose": 231,
-        "ban": 200
+        "win": 131,
+        "lose": 133,
+        "ban": 138
     },
     "114": {
         "name": "Fiora",
-        "win": 363,
-        "lose": 355,
-        "ban": 867
+        "win": 276,
+        "lose": 268,
+        "ban": 790
     },
     "105": {
         "name": "Fizz",
-        "win": 289,
-        "lose": 325,
-        "ban": 795
+        "win": 123,
+        "lose": 135,
+        "ban": 296
     },
     "3": {
         "name": "Galio",
-        "win": 671,
-        "lose": 626,
-        "ban": 373
+        "win": 436,
+        "lose": 410,
+        "ban": 317
     },
     "41": {
         "name": "Gangplank",
-        "win": 165,
-        "lose": 201,
-        "ban": 148
+        "win": 105,
+        "lose": 127,
+        "ban": 86
     },
     "86": {
         "name": "Garen",
-        "win": 596,
-        "lose": 681,
-        "ban": 420
+        "win": 187,
+        "lose": 242,
+        "ban": 152
     },
     "150": {
         "name": "Gnar",
-        "win": 645,
-        "lose": 672,
-        "ban": 307
+        "win": 451,
+        "lose": 479,
+        "ban": 274
     },
     "79": {
         "name": "Gragas",
-        "win": 927,
-        "lose": 897,
-        "ban": 488
+        "win": 659,
+        "lose": 671,
+        "ban": 402
     },
     "104": {
         "name": "Graves",
-        "win": 2197,
-        "lose": 2009,
-        "ban": 2290
+        "win": 1626,
+        "lose": 1503,
+        "ban": 1867
     },
     "887": {
         "name": "Gwen",
-        "win": 401,
-        "lose": 453,
-        "ban": 405
+        "win": 302,
+        "lose": 339,
+        "ban": 339
     },
     "120": {
         "name": "Hecarim",
-        "win": 428,
-        "lose": 481,
-        "ban": 522
+        "win": 350,
+        "lose": 369,
+        "ban": 477
     },
     "74": {
         "name": "Heimerdinger",
-        "win": 147,
-        "lose": 160,
-        "ban": 294
+        "win": 74,
+        "lose": 84,
+        "ban": 184
     },
     "910": {
         "name": "Hwei",
-        "win": 610,
-        "lose": 534,
-        "ban": 1377
+        "win": 419,
+        "lose": 360,
+        "ban": 1072
     },
     "420": {
         "name": "Illaoi",
-        "win": 605,
-        "lose": 581,
-        "ban": 2209
+        "win": 260,
+        "lose": 254,
+        "ban": 608
     },
     "39": {
         "name": "Irelia",
-        "win": 539,
-        "lose": 523,
-        "ban": 991
+        "win": 374,
+        "lose": 355,
+        "ban": 674
     },
     "427": {
         "name": "Ivern",
-        "win": 92,
-        "lose": 89,
-        "ban": 53
+        "win": 64,
+        "lose": 60,
+        "ban": 32
     },
     "40": {
         "name": "Janna",
-        "win": 179,
-        "lose": 161,
-        "ban": 73
+        "win": 155,
+        "lose": 147,
+        "ban": 69
     },
     "59": {
         "name": "JarvanIV",
-        "win": 867,
-        "lose": 834,
-        "ban": 341
+        "win": 500,
+        "lose": 500,
+        "ban": 215
     },
     "24": {
         "name": "Jax",
-        "win": 1437,
-        "lose": 1308,
-        "ban": 1626
+        "win": 923,
+        "lose": 817,
+        "ban": 1268
     },
     "126": {
         "name": "Jayce",
-        "win": 928,
-        "lose": 982,
-        "ban": 1248
+        "win": 555,
+        "lose": 628,
+        "ban": 896
     },
     "202": {
         "name": "Jhin",
-        "win": 2010,
-        "lose": 1951,
-        "ban": 509
+        "win": 1039,
+        "lose": 1016,
+        "ban": 212
     },
     "222": {
         "name": "Jinx",
-        "win": 1606,
-        "lose": 1519,
-        "ban": 222
+        "win": 934,
+        "lose": 888,
+        "ban": 103
     },
     "145": {
         "name": "Kaisa",
-        "win": 3442,
-        "lose": 3393,
-        "ban": 1244
+        "win": 2373,
+        "lose": 2319,
+        "ban": 881
     },
     "429": {
         "name": "Kalista",
-        "win": 381,
-        "lose": 473,
-        "ban": 272
+        "win": 267,
+        "lose": 322,
+        "ban": 161
     },
     "43": {
         "name": "Karma",
-        "win": 898,
-        "lose": 891,
-        "ban": 918
+        "win": 677,
+        "lose": 686,
+        "ban": 791
     },
     "30": {
         "name": "Karthus",
-        "win": 162,
-        "lose": 163,
-        "ban": 118
+        "win": 107,
+        "lose": 95,
+        "ban": 85
     },
     "38": {
         "name": "Kassadin",
-        "win": 191,
-        "lose": 181,
-        "ban": 163
+        "win": 123,
+        "lose": 126,
+        "ban": 141
     },
     "55": {
         "name": "Katarina",
-        "win": 340,
-        "lose": 373,
-        "ban": 810
+        "win": 249,
+        "lose": 260,
+        "ban": 668
     },
     "10": {
         "name": "Kayle",
-        "win": 151,
-        "lose": 150,
-        "ban": 41
+        "win": 66,
+        "lose": 61,
+        "ban": 21
     },
     "141": {
         "name": "Kayn",
-        "win": 495,
-        "lose": 534,
-        "ban": 272
+        "win": 237,
+        "lose": 262,
+        "ban": 135
     },
     "85": {
         "name": "Kennen",
-        "win": 229,
-        "lose": 200,
-        "ban": 193
+        "win": 168,
+        "lose": 146,
+        "ban": 165
     },
     "121": {
         "name": "Khazix",
-        "win": 991,
-        "lose": 1018,
-        "ban": 2599
+        "win": 617,
+        "lose": 637,
+        "ban": 1848
     },
     "203": {
         "name": "Kindred",
-        "win": 379,
-        "lose": 387,
-        "ban": 1591
+        "win": 302,
+        "lose": 287,
+        "ban": 1537
     },
     "240": {
         "name": "Kled",
-        "win": 108,
-        "lose": 93,
-        "ban": 141
+        "win": 86,
+        "lose": 66,
+        "ban": 102
     },
     "96": {
         "name": "KogMaw",
-        "win": 318,
-        "lose": 310,
-        "ban": 138
+        "win": 246,
+        "lose": 235,
+        "ban": 98
     },
     "897": {
         "name": "KSante",
-        "win": 775,
-        "lose": 796,
-        "ban": 1095
+        "win": 600,
+        "lose": 571,
+        "ban": 787
     },
     "7": {
         "name": "Leblanc",
-        "win": 928,
-        "lose": 784,
-        "ban": 5875
+        "win": 560,
+        "lose": 465,
+        "ban": 4264
     },
     "64": {
         "name": "LeeSin",
-        "win": 2544,
-        "lose": 2669,
-        "ban": 4174
+        "win": 1461,
+        "lose": 1529,
+        "ban": 2435
     },
     "89": {
         "name": "Leona",
-        "win": 651,
-        "lose": 670,
-        "ban": 1249
+        "win": 354,
+        "lose": 348,
+        "ban": 703
     },
     "876": {
         "name": "Lillia",
-        "win": 409,
-        "lose": 362,
-        "ban": 450
+        "win": 213,
+        "lose": 195,
+        "ban": 280
     },
     "127": {
         "name": "Lissandra",
-        "win": 411,
-        "lose": 436,
-        "ban": 492
+        "win": 299,
+        "lose": 302,
+        "ban": 339
     },
     "236": {
         "name": "Lucian",
-        "win": 1009,
-        "lose": 1093,
-        "ban": 352
+        "win": 617,
+        "lose": 667,
+        "ban": 262
     },
     "117": {
         "name": "Lulu",
-        "win": 1009,
-        "lose": 989,
-        "ban": 1323
+        "win": 844,
+        "lose": 844,
+        "ban": 1181
     },
     "99": {
         "name": "Lux",
-        "win": 1579,
-        "lose": 1551,
-        "ban": 3139
+        "win": 633,
+        "lose": 663,
+        "ban": 729
     },
     "54": {
         "name": "Malphite",
-        "win": 713,
-        "lose": 760,
-        "ban": 1879
+        "win": 275,
+        "lose": 294,
+        "ban": 874
     },
     "90": {
         "name": "Malzahar",
-        "win": 330,
-        "lose": 336,
-        "ban": 715
+        "win": 131,
+        "lose": 145,
+        "ban": 288
     },
     "57": {
         "name": "Maokai",
-        "win": 194,
-        "lose": 224,
-        "ban": 60
+        "win": 118,
+        "lose": 129,
+        "ban": 24
     },
     "11": {
         "name": "MasterYi",
-        "win": 711,
-        "lose": 757,
-        "ban": 1946
+        "win": 244,
+        "lose": 267,
+        "ban": 394
     },
     "902": {
         "name": "Milio",
-        "win": 398,
-        "lose": 404,
-        "ban": 317
+        "win": 331,
+        "lose": 341,
+        "ban": 266
     },
     "21": {
         "name": "MissFortune",
-        "win": 839,
-        "lose": 775,
-        "ban": 127
+        "win": 286,
+        "lose": 274,
+        "ban": 30
     },
     "62": {
         "name": "MonkeyKing",
-        "win": 482,
-        "lose": 446,
-        "ban": 145
+        "win": 232,
+        "lose": 225,
+        "ban": 77
     },
     "82": {
         "name": "Mordekaiser",
-        "win": 740,
-        "lose": 701,
-        "ban": 3521
+        "win": 287,
+        "lose": 319,
+        "ban": 1322
     },
     "25": {
         "name": "Morgana",
-        "win": 545,
-        "lose": 546,
-        "ban": 5685
+        "win": 184,
+        "lose": 188,
+        "ban": 2363
     },
     "950": {
         "name": "Naafiri",
-        "win": 183,
-        "lose": 150,
-        "ban": 255
+        "win": 88,
+        "lose": 66,
+        "ban": 96
     },
     "267": {
         "name": "Nami",
-        "win": 520,
-        "lose": 615,
-        "ban": 79
+        "win": 446,
+        "lose": 520,
+        "ban": 56
     },
     "75": {
         "name": "Nasus",
-        "win": 803,
-        "lose": 786,
-        "ban": 2937
+        "win": 314,
+        "lose": 340,
+        "ban": 1374
     },
     "111": {
         "name": "Nautilus",
-        "win": 923,
-        "lose": 970,
-        "ban": 3608
+        "win": 526,
+        "lose": 557,
+        "ban": 2449
     },
     "518": {
         "name": "Neeko",
-        "win": 435,
-        "lose": 407,
-        "ban": 350
+        "win": 280,
+        "lose": 260,
+        "ban": 227
     },
     "76": {
         "name": "Nidalee",
-        "win": 970,
-        "lose": 1006,
-        "ban": 1952
+        "win": 695,
+        "lose": 693,
+        "ban": 1662
     },
     "895": {
         "name": "Nilah",
-        "win": 253,
-        "lose": 237,
-        "ban": 2040
+        "win": 198,
+        "lose": 183,
+        "ban": 1927
     },
     "56": {
         "name": "Nocturne",
-        "win": 938,
-        "lose": 914,
-        "ban": 3423
+        "win": 447,
+        "lose": 435,
+        "ban": 1631
     },
     "20": {
         "name": "Nunu",
-        "win": 198,
-        "lose": 193,
-        "ban": 51
+        "win": 133,
+        "lose": 126,
+        "ban": 37
     },
     "2": {
         "name": "Olaf",
-        "win": 163,
-        "lose": 146,
-        "ban": 136
+        "win": 113,
+        "lose": 90,
+        "ban": 106
     },
     "61": {
         "name": "Orianna",
-        "win": 497,
-        "lose": 469,
-        "ban": 277
+        "win": 315,
+        "lose": 323,
+        "ban": 217
     },
     "516": {
         "name": "Ornn",
-        "win": 305,
-        "lose": 319,
-        "ban": 87
+        "win": 211,
+        "lose": 222,
+        "ban": 44
     },
     "80": {
         "name": "Pantheon",
-        "win": 513,
-        "lose": 488,
-        "ban": 360
+        "win": 288,
+        "lose": 234,
+        "ban": 250
     },
     "78": {
         "name": "Poppy",
-        "win": 616,
-        "lose": 560,
-        "ban": 1588
+        "win": 436,
+        "lose": 391,
+        "ban": 1478
     },
     "555": {
         "name": "Pyke",
-        "win": 961,
-        "lose": 1013,
-        "ban": 3718
+        "win": 615,
+        "lose": 664,
+        "ban": 3155
     },
     "246": {
         "name": "Qiyana",
-        "win": 193,
-        "lose": 187,
-        "ban": 196
+        "win": 156,
+        "lose": 135,
+        "ban": 182
     },
     "133": {
         "name": "Quinn",
-        "win": 114,
-        "lose": 127,
-        "ban": 87
+        "win": 62,
+        "lose": 58,
+        "ban": 54
     },
     "497": {
         "name": "Rakan",
-        "win": 573,
-        "lose": 582,
-        "ban": 79
+        "win": 433,
+        "lose": 450,
+        "ban": 64
     },
     "33": {
         "name": "Rammus",
-        "win": 177,
-        "lose": 181,
-        "ban": 528
+        "win": 54,
+        "lose": 66,
+        "ban": 237
     },
     "421": {
         "name": "RekSai",
-        "win": 111,
-        "lose": 111,
-        "ban": 51
+        "win": 94,
+        "lose": 91,
+        "ban": 43
     },
     "526": {
         "name": "Rell",
-        "win": 1000,
-        "lose": 835,
-        "ban": 1998
+        "win": 785,
+        "lose": 651,
+        "ban": 1841
     },
     "888": {
         "name": "Renata",
-        "win": 177,
-        "lose": 166,
-        "ban": 72
+        "win": 112,
+        "lose": 119,
+        "ban": 40
     },
     "58": {
         "name": "Renekton",
-        "win": 1000,
-        "lose": 1034,
-        "ban": 1015
+        "win": 696,
+        "lose": 754,
+        "ban": 827
     },
     "107": {
         "name": "Rengar",
-        "win": 145,
-        "lose": 185,
-        "ban": 266
+        "win": 114,
+        "lose": 125,
+        "ban": 224
     },
     "92": {
         "name": "Riven",
-        "win": 379,
-        "lose": 381,
-        "ban": 121
+        "win": 261,
+        "lose": 239,
+        "ban": 99
     },
     "68": {
         "name": "Rumble",
-        "win": 313,
-        "lose": 368,
-        "ban": 210
+        "win": 182,
+        "lose": 208,
+        "ban": 146
     },
     "13": {
         "name": "Ryze",
-        "win": 276,
-        "lose": 242,
-        "ban": 48
+        "win": 163,
+        "lose": 153,
+        "ban": 25
     },
     "360": {
         "name": "Samira",
-        "win": 390,
-        "lose": 337,
-        "ban": 795
+        "win": 232,
+        "lose": 199,
+        "ban": 443
     },
     "113": {
         "name": "Sejuani",
-        "win": 381,
-        "lose": 386,
-        "ban": 108
+        "win": 194,
+        "lose": 186,
+        "ban": 45
     },
     "235": {
         "name": "Senna",
-        "win": 445,
-        "lose": 453,
-        "ban": 164
+        "win": 239,
+        "lose": 214,
+        "ban": 104
     },
     "147": {
         "name": "Seraphine",
-        "win": 478,
-        "lose": 447,
-        "ban": 169
+        "win": 302,
+        "lose": 280,
+        "ban": 111
     },
     "875": {
         "name": "Sett",
-        "win": 477,
-        "lose": 484,
-        "ban": 363
+        "win": 197,
+        "lose": 205,
+        "ban": 130
     },
     "35": {
         "name": "Shaco",
-        "win": 406,
-        "lose": 488,
-        "ban": 5518
+        "win": 206,
+        "lose": 235,
+        "ban": 2178
     },
     "98": {
         "name": "Shen",
-        "win": 351,
-        "lose": 356,
-        "ban": 187
+        "win": 240,
+        "lose": 248,
+        "ban": 166
     },
     "102": {
         "name": "Shyvana",
-        "win": 362,
-        "lose": 299,
-        "ban": 199
+        "win": 151,
+        "lose": 137,
+        "ban": 101
     },
     "27": {
         "name": "Singed",
-        "win": 93,
-        "lose": 80,
-        "ban": 36
+        "win": 57,
+        "lose": 49,
+        "ban": 21
     },
     "14": {
         "name": "Sion",
-        "win": 278,
-        "lose": 258,
-        "ban": 159
+        "win": 175,
+        "lose": 162,
+        "ban": 83
     },
     "15": {
         "name": "Sivir",
-        "win": 315,
-        "lose": 326,
-        "ban": 81
+        "win": 202,
+        "lose": 184,
+        "ban": 49
     },
     "72": {
         "name": "Skarner",
-        "win": 546,
-        "lose": 499,
-        "ban": 917
+        "win": 391,
+        "lose": 362,
+        "ban": 697
     },
     "901": {
         "name": "Smolder",
-        "win": 1885,
-        "lose": 2108,
-        "ban": 4130
+        "win": 922,
+        "lose": 1020,
+        "ban": 2001
     },
     "37": {
         "name": "Sona",
-        "win": 155,
-        "lose": 171,
-        "ban": 19
+        "win": 81,
+        "lose": 111,
+        "ban": 12
     },
     "16": {
         "name": "Soraka",
-        "win": 312,
-        "lose": 284,
-        "ban": 243
+        "win": 247,
+        "lose": 221,
+        "ban": 209
     },
     "50": {
         "name": "Swain",
-        "win": 326,
-        "lose": 352,
-        "ban": 139
+        "win": 152,
+        "lose": 170,
+        "ban": 66
     },
     "517": {
         "name": "Sylas",
-        "win": 2119,
-        "lose": 2153,
-        "ban": 3255
+        "win": 1326,
+        "lose": 1348,
+        "ban": 1914
     },
     "134": {
         "name": "Syndra",
-        "win": 588,
-        "lose": 614,
-        "ban": 709
+        "win": 378,
+        "lose": 405,
+        "ban": 469
     },
     "223": {
         "name": "TahmKench",
-        "win": 373,
-        "lose": 318,
-        "ban": 194
+        "win": 161,
+        "lose": 153,
+        "ban": 66
     },
     "163": {
         "name": "Taliyah",
-        "win": 404,
-        "lose": 350,
-        "ban": 940
+        "win": 331,
+        "lose": 283,
+        "ban": 893
     },
     "91": {
         "name": "Talon",
-        "win": 192,
-        "lose": 221,
-        "ban": 39
+        "win": 137,
+        "lose": 137,
+        "ban": 27
     },
     "44": {
         "name": "Taric",
-        "win": 48,
-        "lose": 51,
-        "ban": 45
+        "win": 25,
+        "lose": 32,
+        "ban": 31
     },
     "17": {
         "name": "Teemo",
-        "win": 559,
-        "lose": 551,
-        "ban": 1638
+        "win": 184,
+        "lose": 182,
+        "ban": 363
     },
     "412": {
         "name": "Thresh",
-        "win": 1532,
-        "lose": 1551,
-        "ban": 2177
+        "win": 962,
+        "lose": 974,
+        "ban": 1591
     },
     "18": {
         "name": "Tristana",
-        "win": 531,
-        "lose": 625,
-        "ban": 182
+        "win": 241,
+        "lose": 283,
+        "ban": 86
     },
     "48": {
         "name": "Trundle",
-        "win": 236,
-        "lose": 224,
-        "ban": 143
+        "win": 81,
+        "lose": 78,
+        "ban": 35
     },
     "23": {
         "name": "Tryndamere",
-        "win": 442,
-        "lose": 452,
-        "ban": 814
+        "win": 203,
+        "lose": 202,
+        "ban": 505
     },
     "4": {
         "name": "TwistedFate",
-        "win": 353,
-        "lose": 400,
-        "ban": 371
+        "win": 224,
+        "lose": 243,
+        "ban": 332
     },
     "29": {
         "name": "Twitch",
-        "win": 276,
-        "lose": 301,
-        "ban": 130
+        "win": 171,
+        "lose": 180,
+        "ban": 48
     },
     "77": {
         "name": "Udyr",
-        "win": 206,
-        "lose": 208,
-        "ban": 111
+        "win": 142,
+        "lose": 151,
+        "ban": 85
     },
     "6": {
         "name": "Urgot",
-        "win": 190,
-        "lose": 149,
-        "ban": 60
+        "win": 122,
+        "lose": 87,
+        "ban": 33
     },
     "110": {
         "name": "Varus",
-        "win": 632,
-        "lose": 688,
-        "ban": 83
+        "win": 379,
+        "lose": 403,
+        "ban": 44
     },
     "67": {
         "name": "Vayne",
-        "win": 369,
-        "lose": 370,
-        "ban": 306
+        "win": 157,
+        "lose": 145,
+        "ban": 128
     },
     "45": {
         "name": "Veigar",
-        "win": 539,
-        "lose": 488,
-        "ban": 550
+        "win": 177,
+        "lose": 161,
+        "ban": 110
     },
     "161": {
         "name": "Velkoz",
-        "win": 261,
-        "lose": 248,
-        "ban": 117
+        "win": 127,
+        "lose": 123,
+        "ban": 63
     },
     "711": {
         "name": "Vex",
-        "win": 279,
-        "lose": 215,
-        "ban": 408
+        "win": 153,
+        "lose": 128,
+        "ban": 296
     },
     "254": {
         "name": "Vi",
-        "win": 525,
-        "lose": 573,
-        "ban": 362
+        "win": 240,
+        "lose": 280,
+        "ban": 222
     },
     "234": {
         "name": "Viego",
-        "win": 1385,
-        "lose": 1316,
-        "ban": 687
+        "win": 1054,
+        "lose": 1013,
+        "ban": 562
     },
     "112": {
         "name": "Viktor",
-        "win": 353,
-        "lose": 331,
-        "ban": 414
+        "win": 200,
+        "lose": 199,
+        "ban": 241
     },
     "8": {
         "name": "Vladimir",
-        "win": 313,
-        "lose": 333,
-        "ban": 561
+        "win": 224,
+        "lose": 244,
+        "ban": 406
     },
     "106": {
         "name": "Volibear",
-        "win": 518,
-        "lose": 450,
-        "ban": 349
+        "win": 282,
+        "lose": 268,
+        "ban": 229
     },
     "19": {
         "name": "Warwick",
-        "win": 308,
-        "lose": 298,
-        "ban": 134
+        "win": 122,
+        "lose": 117,
+        "ban": 35
     },
     "498": {
         "name": "Xayah",
-        "win": 791,
-        "lose": 825,
-        "ban": 149
+        "win": 565,
+        "lose": 607,
+        "ban": 112
     },
     "101": {
         "name": "Xerath",
-        "win": 841,
-        "lose": 842,
-        "ban": 3379
+        "win": 433,
+        "lose": 474,
+        "ban": 1712
     },
     "5": {
         "name": "XinZhao",
-        "win": 277,
-        "lose": 264,
-        "ban": 43
+        "win": 123,
+        "lose": 119,
+        "ban": 19
     },
     "157": {
         "name": "Yasuo",
-        "win": 1296,
-        "lose": 1522,
-        "ban": 5968
+        "win": 587,
+        "lose": 702,
+        "ban": 2066
     },
     "777": {
         "name": "Yone",
-        "win": 2202,
-        "lose": 2475,
-        "ban": 4743
+        "win": 1219,
+        "lose": 1392,
+        "ban": 2244
     },
     "83": {
         "name": "Yorick",
-        "win": 318,
-        "lose": 308,
-        "ban": 876
+        "win": 108,
+        "lose": 115,
+        "ban": 290
     },
     "350": {
         "name": "Yuumi",
-        "win": 632,
-        "lose": 670,
-        "ban": 4956
+        "win": 482,
+        "lose": 515,
+        "ban": 4594
     },
     "154": {
         "name": "Zac",
-        "win": 362,
-        "lose": 378,
-        "ban": 387
+        "win": 296,
+        "lose": 300,
+        "ban": 341
     },
     "238": {
         "name": "Zed",
-        "win": 593,
-        "lose": 693,
-        "ban": 3400
+        "win": 260,
+        "lose": 316,
+        "ban": 1205
     },
     "221": {
         "name": "Zeri",
-        "win": 363,
-        "lose": 393,
-        "ban": 234
+        "win": 267,
+        "lose": 280,
+        "ban": 183
     },
     "115": {
         "name": "Ziggs",
-        "win": 566,
-        "lose": 536,
-        "ban": 473
+        "win": 238,
+        "lose": 230,
+        "ban": 184
     },
     "26": {
         "name": "Zilean",
-        "win": 148,
-        "lose": 144,
-        "ban": 116
+        "win": 114,
+        "lose": 103,
+        "ban": 73
     },
     "142": {
         "name": "Zoe",
-        "win": 474,
-        "lose": 422,
-        "ban": 1855
+        "win": 395,
+        "lose": 348,
+        "ban": 1768
     },
     "143": {
         "name": "Zyra",
-        "win": 248,
-        "lose": 256,
-        "ban": 310
+        "win": 120,
+        "lose": 128,
+        "ban": 174
     }
 }
