@@ -1,0 +1,284 @@
+{
+    "TOP": {
+        "S": [
+            "Aatrox",
+            "Jax"
+        ],
+        "A": [
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Illaoi",
+            "Irelia",
+            "Kennen",
+            "Kled",
+            "KSante",
+            "Pantheon",
+            "Renekton",
+            "Riven",
+            "Smolder",
+            "TahmKench",
+            "Urgot"
+        ],
+        "B": [
+            "Akali",
+            "Aurora",
+            "DrMundo",
+            "Gwen",
+            "Jayce",
+            "Malphite",
+            "MonkeyKing",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Quinn",
+            "Rengar",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Teemo",
+            "Tryndamere",
+            "Vayne",
+            "Volibear",
+            "Yone",
+            "Zac"
+        ],
+        "C": [
+            "Cassiopeia",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Rammus"
+        ],
+        "D": [
+            "Gangplank",
+            "Garen",
+            "Kayle",
+            "Rumble",
+            "Trundle",
+            "Udyr",
+            "Vladimir",
+            "Warwick",
+            "Yasuo",
+            "Yorick"
+        ]
+    },
+    "JUNGLE": {
+        "S": [
+            "Graves"
+        ],
+        "A": [
+            "Brand",
+            "Diana",
+            "Elise",
+            "JarvanIV",
+            "Karthus",
+            "Khazix",
+            "Kindred",
+            "LeeSin",
+            "Lillia",
+            "Nidalee",
+            "Nocturne",
+            "Sejuani",
+            "Shyvana",
+            "Skarner",
+            "Viego",
+            "Volibear"
+        ],
+        "B": [
+            "Amumu",
+            "Briar",
+            "Ekko",
+            "Fiddlesticks",
+            "Gragas",
+            "Hecarim",
+            "Kayn",
+            "Maokai",
+            "MasterYi",
+            "MonkeyKing",
+            "Olaf",
+            "RekSai",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Warwick",
+            "XinZhao"
+        ],
+        "C": [
+            "DrMundo",
+            "Gwen",
+            "Rammus",
+            "Talon",
+            "Zyra"
+        ],
+        "D": [
+            "Belveth",
+            "Evelynn",
+            "Ivern",
+            "Nunu",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ]
+    },
+    "MIDDLE": {
+        "S": [
+            "Ahri",
+            "Leblanc"
+        ],
+        "A": [
+            "Akali",
+            "Anivia",
+            "AurelionSol",
+            "Corki",
+            "Diana",
+            "Galio",
+            "Hwei",
+            "Naafiri",
+            "Orianna",
+            "Qiyana",
+            "Sylas",
+            "Taliyah",
+            "Vex",
+            "Yone",
+            "Zoe"
+        ],
+        "B": [
+            "Akshan",
+            "Annie",
+            "Aurora",
+            "Cassiopeia",
+            "Chogath",
+            "Jayce",
+            "Kassadin",
+            "Katarina",
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Neeko",
+            "Nunu",
+            "Quinn",
+            "Ryze",
+            "Smolder",
+            "Swain",
+            "Syndra",
+            "Talon",
+            "TwistedFate",
+            "Veigar",
+            "Viktor",
+            "Yasuo"
+        ],
+        "C": [
+            "Azir",
+            "Ekko",
+            "Heimerdinger",
+            "Tristana",
+            "Velkoz",
+            "Ziggs"
+        ],
+        "D": [
+            "Brand",
+            "Fizz",
+            "Irelia",
+            "Malzahar",
+            "Vladimir",
+            "Xerath",
+            "Zed"
+        ]
+    },
+    "BOTTOM": {
+        "S": [
+            "Jinx"
+        ],
+        "A": [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "MissFortune",
+            "Nilah",
+            "Samira"
+        ],
+        "B": [
+            "Aphelios",
+            "Corki",
+            "KogMaw",
+            "Lucian",
+            "Seraphine",
+            "Sivir",
+            "Twitch",
+            "Varus",
+            "Xayah",
+            "Zeri",
+            "Ziggs"
+        ],
+        "C": [
+            "Draven"
+        ],
+        "D": [
+            "Kalista",
+            "Smolder",
+            "Tristana",
+            "Vayne"
+        ]
+    },
+    "UTILITY": {
+        "S": [
+            "Rell"
+        ],
+        "A": [
+            "Alistar",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Rakan",
+            "Senna",
+            "Soraka",
+            "Thresh",
+            "Xerath"
+        ],
+        "B": [
+            "Bard",
+            "Fiddlesticks",
+            "Janna",
+            "Lux",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Seraphine",
+            "Teemo",
+            "Veigar",
+            "Velkoz",
+            "Yuumi",
+            "Zilean",
+            "Zoe"
+        ],
+        "C": [
+            "Shaco",
+            "Sona",
+            "Swain",
+            "TahmKench",
+            "Taric",
+            "Twitch",
+            "Zac"
+        ],
+        "D": [
+            "Maokai",
+            "Renata",
+            "Zyra"
+        ]
+    }
+}
