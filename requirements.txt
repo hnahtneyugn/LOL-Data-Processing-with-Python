@@ -1,0 +1,11 @@
+dash==2.18.2
+dash_iconify==0.1.2
+dash_mantine_components==0.15.0
+matplotlib==3.9.3
+numpy==2.1.3
+pandas==2.2.3
+plotly==5.24.1
+Requests==2.32.3
+scikit_learn==1.5.2
+scipy==1.14.1
+seaborn==0.13.2
