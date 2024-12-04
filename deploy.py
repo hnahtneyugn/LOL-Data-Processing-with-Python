@@ -14,7 +14,6 @@ from dash.dependencies import Input, Output, ClientsideFunction
 from dash_iconify import DashIconify
 
 import json
-import gunicorn
 import ast
 import numpy as np
 import pandas as pd
