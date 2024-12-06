@@ -180,7 +180,8 @@ app.layout = dmc.MantineProvider(
                     tickLine="xy",
                     xAxisLabel="Rank",
                     yAxisLabel="Winrate (%)",
-                    xAxisProps={"angle": "30", "dy": 15}
+                    xAxisProps={"angle": "30", "dy": 15},
+                    yAxisProps={"domain": [40, 100]}
                 )
             ], span=6, style={"paddingTop": "120px"})
         ]),
